@@ -1,0 +1,25 @@
+section{
+    background-color: red;
+    width: 23%;
+    margin: 10px;
+}
+
+h1{
+    font-size: 50px;
+}
+.Indie{
+    background-color: blue;
+    
+}
+
+.cod{
+    background-color: green;
+}
+
+.juegos{
+    display: flex;
+}
+
+.hollow{
+    
+}
